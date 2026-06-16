@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors -->
+    <color name="primary">#1B5E20</color>
+    <color name="primary_dark">#0D3B13</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="primary_variant">#388E3C</color>
+
+    <!-- Accent -->
+    <color name="accent">#FF9800</color>
+    <color name="accent_dark">#F57C00</color>
+
+    <!-- Background -->
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Income & Expense -->
+    <color name="green_income">#2E7D32</color>
+    <color name="green_income_bg">#E8F5E9</color>
+    <color name="red_expense">#C62828</color>
+    <color name="red_expense_bg">#FFEBEE</color>
+
+    <!-- Dashboard Cards -->
+    <color name="card_income_start">#43A047</color>
+    <color name="card_income_end">#66BB6A</color>
+    <color name="card_expense_start">#E53935</color>
+    <color name="card_expense_end">#EF5350</color>
+    <color name="card_balance_start">#1565C0</color>
+    <color name="card_balance_end">#42A5F5</color>
+
+    <!-- Divider -->
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Error -->
+    <color name="error">#B00020</color>
+</resources>

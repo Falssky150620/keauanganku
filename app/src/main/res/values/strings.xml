@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">KeuanganKu</string>
+
+    <!-- Login -->
+    <string name="login_title">Masuk</string>
+    <string name="login_subtitle">Masuk ke akun KeuanganKu</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Masuk</string>
+    <string name="link_register">Belum punya akun? Daftar</string>
+
+    <!-- Register -->
+    <string name="register_title">Daftar</string>
+    <string name="register_subtitle">Buat akun baru</string>
+    <string name="hint_nama">Nama Lengkap</string>
+    <string name="hint_confirm_password">Konfirmasi Password</string>
+    <string name="btn_register">Daftar</string>
+    <string name="link_login">Sudah punya akun? Masuk</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="greeting">Halo, %s!</string>
+    <string name="total_pemasukan">Total Pemasukan</string>
+    <string name="total_pengeluaran">Total Pengeluaran</string>
+    <string name="saldo">Saldo</string>
+    <string name="btn_lihat_transaksi">Lihat Transaksi</string>
+    <string name="btn_tambah_transaksi">Tambah Transaksi</string>
+    <string name="btn_logout">Keluar</string>
+
+    <!-- Transaksi -->
+    <string name="transaksi_list_title">Riwayat Transaksi</string>
+    <string name="tambah_transaksi_title">Tambah Transaksi</string>
+    <string name="edit_transaksi_title">Edit Transaksi</string>
+    <string name="hint_kategori">Kategori</string>
+    <string name="hint_nominal">Nominal (Rp)</string>
+    <string name="hint_tanggal">Tanggal</string>
+    <string name="hint_keterangan">Keterangan (opsional)</string>
+    <string name="jenis_pemasukan">Pemasukan</string>
+    <string name="jenis_pengeluaran">Pengeluaran</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_update">Perbarui</string>
+    <string name="btn_hapus">Hapus</string>
+
+    <!-- Messages -->
+    <string name="msg_loading">Memuat...</string>
+    <string name="msg_empty_transaksi">Belum ada transaksi</string>
+    <string name="msg_confirm_delete">Apakah Anda yakin ingin menghapus transaksi ini?</string>
+    <string name="msg_confirm_logout">Apakah Anda yakin ingin keluar?</string>
+    <string name="msg_ya">Ya</string>
+    <string name="msg_tidak">Tidak</string>
+    <string name="msg_success">Berhasil</string>
+    <string name="msg_error">Terjadi kesalahan</string>
+    <string name="msg_fill_all">Semua field wajib diisi</string>
+    <string name="msg_password_mismatch">Password tidak cocok</string>
+    <string name="msg_password_min">Password minimal 6 karakter</string>
+    <string name="msg_invalid_email">Format email tidak valid</string>
+</resources>
